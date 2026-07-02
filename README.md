@@ -5,7 +5,7 @@ Personal configuration for the [pi](https://github.com/earendil-works/pi) coding
 Clone this repo to **`~/.pi`** — that is the path pi reads its config from:
 
 ```bash
-git clone <this-repo-url> ~/.pi
+git clone https://github.com/crnvl96/pi-config.git ~/.pi
 cd ~/.pi
 ```
 
