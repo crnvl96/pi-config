@@ -1,0 +1,17 @@
+{
+  "lastChangelogVersion": "0.80.3",
+  "packages": [
+    "npm:@ff-labs/pi-fff",
+    "npm:@plannotator/pi-extension",
+    "npm:pi-sidequest",
+    "npm:pi-omplike-advisor",
+    "npm:@charmland/pi-hyper-provider",
+    "npm:@juicesharp/rpiv-ask-user-question"
+  ],
+  "defaultProvider": "opencode-go",
+  "defaultModel": "minimax-m3",
+  "defaultThinkingLevel": "high",
+  "hideThinkingBlock": true,
+  "treeFilterMode": "no-tools",
+  "theme": "dark"
+}

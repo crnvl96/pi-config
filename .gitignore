@@ -1,0 +1,4 @@
+node_modules/
+hyper-provider/
+auth.json
+agent/sessions/
