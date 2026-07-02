@@ -1,7 +1,6 @@
 {
   "lastChangelogVersion": "0.80.3",
   "packages": [
-    "npm:@ff-labs/pi-fff",
     "npm:@plannotator/pi-extension",
     "npm:pi-sidequest",
     "npm:pi-omplike-advisor",
