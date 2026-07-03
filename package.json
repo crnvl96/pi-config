@@ -11,10 +11,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@earendil-works/pi-agent-core": "^0.79.7",
-    "@earendil-works/pi-ai": "^0.79.7",
-    "@earendil-works/pi-coding-agent": "^0.79.6",
-    "@earendil-works/pi-tui": "^0.79.7",
+    "@earendil-works/pi-agent-core": "0.80.3",
+    "@earendil-works/pi-ai": "0.80.3",
+    "@earendil-works/pi-coding-agent": "0.80.3",
+    "@earendil-works/pi-tui": "0.80.3",
     "typebox": "^1.2.16"
   },
   "devEngines": {

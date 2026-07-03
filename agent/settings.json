@@ -5,7 +5,8 @@
     "npm:pi-sidequest",
     "npm:pi-omplike-advisor",
     "npm:@charmland/pi-hyper-provider",
-    "npm:@juicesharp/rpiv-ask-user-question"
+    "npm:@juicesharp/rpiv-ask-user-question",
+    "npm:@ff-labs/pi-fff"
   ],
   "defaultProvider": "opencode-go",
   "defaultModel": "minimax-m3",
