@@ -1,6 +1,6 @@
 # pi — Coding Agent Config
 
-Personal configuration for the [pi](https://github.com/earendil-works/pi) coding agent. The `agent/` directory in this repo is the live config root that pi loads at startup.
+Personal configuration for the [pi](https://github.com/earendil-works/pi) coding agent.
 
 Clone this repo to **`~/.pi`** — that is the path pi reads its config from:
 
