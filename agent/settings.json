@@ -1,11 +1,9 @@
 {
   "lastChangelogVersion": "0.80.3",
   "packages": [
-    "npm:@plannotator/pi-extension",
     "npm:pi-sidequest",
     "npm:pi-omplike-advisor",
     "npm:@charmland/pi-hyper-provider",
-    "npm:@juicesharp/rpiv-ask-user-question",
     "npm:@ff-labs/pi-fff"
   ],
   "defaultProvider": "opencode-go",
