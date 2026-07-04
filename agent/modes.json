@@ -1,8 +1,8 @@
 {
   "modes": {
     "advisor": {
-      "provider": "opencode-go",
-      "modelId": "glm-5.2",
+      "provider": "openrouter",
+      "modelId": "z-ai/glm-5.2",
       "thinkingLevel": "high"
     }
   }

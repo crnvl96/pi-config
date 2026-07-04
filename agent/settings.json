@@ -1,10 +1,9 @@
 {
   "lastChangelogVersion": "0.80.3",
   "packages": [
-    "npm:pi-sidequest",
-    "npm:@charmland/pi-hyper-provider",
-    "npm:@ff-labs/pi-fff",
-    "https://github.com/pasky/pi-omplike-advisor"
+    "git:github.com/pasky/pi-omplike-advisor",
+    "git:github.com/charmbracelet/pi-hyper-provider",
+    "npm:@ff-labs/pi-fff"
   ],
   "defaultProvider": "opencode-go",
   "defaultModel": "minimax-m3",
