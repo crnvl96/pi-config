@@ -1,8 +1,8 @@
 ---
-description: Load the hunk skill
+description: Interact with hunk session
 argument-hint: "[instructions]"
 ---
 
-Run `hunk skill path` to get hunk's skill path and load it.
+**The golden rule: Don't perform any edit action to the hunk session, always use this chat conversation**
 
 $ARGUMENTS
