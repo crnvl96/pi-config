@@ -1,9 +1,9 @@
 {
   "lastChangelogVersion": "0.80.3",
   "packages": [
-    "git:github.com/pasky/pi-omplike-advisor",
-    "git:github.com/charmbracelet/pi-hyper-provider",
-    "npm:@ff-labs/pi-fff"
+    "npm:@ff-labs/pi-fff",
+    "npm:@charmland/pi-hyper-provider",
+    "npm:pi-omplike-advisor"
   ],
   "defaultProvider": "opencode-go",
   "defaultModel": "minimax-m3",
