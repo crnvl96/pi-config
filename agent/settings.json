@@ -2,8 +2,7 @@
   "lastChangelogVersion": "0.80.3",
   "packages": [
     "npm:@ff-labs/pi-fff",
-    "npm:@charmland/pi-hyper-provider",
-    "npm:pi-omplike-advisor"
+    "npm:@charmland/pi-hyper-provider"
   ],
   "defaultProvider": "opencode-go",
   "defaultModel": "minimax-m3",
