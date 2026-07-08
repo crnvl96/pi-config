@@ -4,8 +4,8 @@
     "npm:@ff-labs/pi-fff",
     "npm:@charmland/pi-hyper-provider"
   ],
-  "defaultProvider": "openrouter",
-  "defaultModel": "deepseek/deepseek-v4-pro",
+  "defaultProvider": "deepseek",
+  "defaultModel": "deepseek-v4-pro",
   "defaultThinkingLevel": "high",
   "hideThinkingBlock": true,
   "treeFilterMode": "no-tools",

@@ -9,13 +9,10 @@
   "tui.editor.deleteCharForward": ["delete", "ctrl+d"],
   "tui.editor.deleteWordForward": [],
   "tui.editor.yankPop": [],
-
   "tui.select.up": ["up", "ctrl+p"],
   "tui.select.down": ["down", "ctrl+n"],
-
   "app.model.cycleForward": ["alt+p"],
   "app.model.cycleBackward": ["alt+n"],
   "app.model.select": ["alt+m"],
-
   "app.models.clearAll": []
 }
