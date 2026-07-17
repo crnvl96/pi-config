@@ -8,7 +8,10 @@
     "npm"
   ],
   "packages": [
-    "npm:@ff-labs/pi-fff"
+    "npm:@ff-labs/pi-fff",
+    "npm:@juicesharp/rpiv-web-tools",
+    "npm:pi-omplike-advisor",
+    "npm:@tintinweb/pi-subagents"
   ],
   "defaultProvider": "deepseek",
   "defaultModel": "deepseek-v4-pro",

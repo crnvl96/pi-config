@@ -1,0 +1,9 @@
+{
+  "modes": {
+    "advisor": {
+      "provider": "cloudflare-ai-gateway",
+      "modelId": "gpt-5.6-sol",
+      "thinkingLevel": "high"
+    }
+  }
+}
