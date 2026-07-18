@@ -10,6 +10,7 @@
   "packages": [
     "npm:@ff-labs/pi-fff",
     "npm:@juicesharp/rpiv-web-tools",
+    "npm:@a-fig/accordion",
     "npm:pi-omplike-advisor"
   ],
   "defaultProvider": "deepseek",
@@ -39,14 +40,6 @@
   "enabledModels": [
     "deepseek/deepseek-v4-flash",
     "deepseek/deepseek-v4-pro",
-    "cloudflare-ai-gateway/gpt-5.6-sol",
-    "cloudflare-ai-gateway/gpt-5.6-luna",
-    "cloudflare-ai-gateway/gpt-5.6-terra",
-    "cloudflare-ai-gateway/claude-fable-5",
-    "cloudflare-ai-gateway/claude-opus-4-8",
-    "cloudflare-ai-gateway/claude-sonnet-5",
-    "cloudflare-ai-gateway/claude-haiku-4-5",
-    "cloudflare-ai-gateway/workers-ai/@cf/zai-org/glm-5.2",
-    "cloudflare-ai-gateway/workers-ai/@cf/moonshotai/kimi-k2.6"
+    "cloudflare-ai-gateway/gpt-5.6-sol"
   ]
 }
