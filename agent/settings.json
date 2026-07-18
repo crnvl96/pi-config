@@ -10,7 +10,6 @@
   "packages": [
     "npm:@ff-labs/pi-fff",
     "npm:@juicesharp/rpiv-web-tools",
-    "npm:@a-fig/accordion",
     "npm:pi-omplike-advisor"
   ],
   "defaultProvider": "deepseek",
