@@ -1,7 +1,17 @@
 {
   "lastChangelogVersion": "0.80.10",
-  "npmCommand": ["mise", "exec", "node@24", "--", "npm"],
-  "packages": ["npm:@ff-labs/pi-fff", "npm:@juicesharp/rpiv-web-tools", "npm:pi-omplike-advisor"],
+  "npmCommand": [
+    "mise",
+    "exec",
+    "node@24",
+    "--",
+    "npm"
+  ],
+  "packages": [
+    "npm:@ff-labs/pi-fff",
+    "npm:@juicesharp/rpiv-web-tools",
+    "npm:pi-omplike-advisor"
+  ],
   "defaultProvider": "deepseek",
   "defaultModel": "deepseek-v4-pro",
   "defaultThinkingLevel": "high",
@@ -32,4 +42,3 @@
     "cloudflare-ai-gateway/gpt-5.6-sol"
   ]
 }
-
