@@ -10,7 +10,8 @@
   "packages": [
     "npm:@ff-labs/pi-fff",
     "npm:@juicesharp/rpiv-web-tools",
-    "npm:pi-omplike-advisor"
+    "npm:pi-omplike-advisor",
+    "npm:@plannotator/pi-extension"
   ],
   "defaultProvider": "deepseek",
   "defaultModel": "deepseek-v4-pro",
