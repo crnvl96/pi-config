@@ -1,5 +1,5 @@
 {
-  "lastChangelogVersion": "0.81.1",
+  "lastChangelogVersion": "0.82.0",
   "npmCommand": [
     "mise",
     "exec",
@@ -11,7 +11,8 @@
     "npm:@ff-labs/pi-fff",
     "npm:@juicesharp/rpiv-web-tools",
     "npm:pi-omplike-advisor",
-    "npm:@plannotator/pi-extension"
+    "npm:@plannotator/pi-extension",
+    "git:github.com/earendil-works/pi-review-loop"
   ],
   "defaultProvider": "deepseek",
   "defaultModel": "deepseek-v4-pro",

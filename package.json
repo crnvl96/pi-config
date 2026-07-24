@@ -1,18 +1,11 @@
 {
-  "name": "pi-config",
-  "type": "module",
+  "private": true,
+  "packageManager": "bun@1.3.14",
   "dependencies": {
-    "@earendil-works/pi-agent-core": "0.80.7",
-    "@earendil-works/pi-ai": "0.80.7",
-    "@earendil-works/pi-coding-agent": "0.80.7",
-    "@earendil-works/pi-tui": "0.80.7",
-    "typebox": "^1.2.16"
-  },
-  "devEngines": {
-    "packageManager": {
-      "name": "pnpm",
-      "version": "^11.5.2",
-      "onFail": "download"
-    }
+    "@earendil-works/pi-agent-core": "^0.82.0",
+    "@earendil-works/pi-ai": "^0.82.0",
+    "@earendil-works/pi-coding-agent": "^0.82.0",
+    "@earendil-works/pi-tui": "^0.82.0",
+    "typebox": "^1.3.8"
   }
 }
