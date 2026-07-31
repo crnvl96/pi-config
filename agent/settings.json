@@ -13,8 +13,8 @@
     "git:github.com/earendil-works/pi-review-loop"
   ],
   "defaultProvider": "cloudflare-ai-gateway",
-  "defaultModel": "claude-opus-4-8",
-  "defaultThinkingLevel": "low",
+  "defaultModel": "gpt-5.6-luna",
+  "defaultThinkingLevel": "xhigh",
   "showCacheMissNotices": true,
   "hideThinkingBlock": true,
   "treeFilterMode": "no-tools",
