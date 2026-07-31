@@ -8,9 +8,8 @@
     "npm"
   ],
   "packages": [
-    "npm:@ff-labs/pi-fff",
-    "npm:@juicesharp/rpiv-web-tools",
-    "git:github.com/earendil-works/pi-review-loop"
+    "git:github.com/earendil-works/pi-review-loop",
+    "npm:pi-web-access"
   ],
   "defaultProvider": "cloudflare-ai-gateway",
   "defaultModel": "gpt-5.6-luna",
