@@ -7,12 +7,10 @@
     "--",
     "npm"
   ],
-  "packages": [
-    "git:github.com/earendil-works/pi-review-loop"
-  ],
-  "defaultProvider": "cloudflare-ai-gateway",
-  "defaultModel": "gpt-5.6-luna",
-  "defaultThinkingLevel": "xhigh",
+  "packages": [],
+  "defaultProvider": "deepseek",
+  "defaultModel": "deepseek-v4-flash",
+  "defaultThinkingLevel": "max",
   "showCacheMissNotices": true,
   "hideThinkingBlock": true,
   "treeFilterMode": "no-tools",
@@ -33,9 +31,5 @@
     "low": 4096,
     "medium": 10240,
     "high": 32768
-  },
-  "enabledModels": [
-    "cloudflare-ai-gateway/gpt-5.6-luna",
-    "deepseek/deepseek-v4-flash"
-  ]
+  }
 }
