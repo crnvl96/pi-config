@@ -1,6 +1,12 @@
 {
-  "lastChangelogVersion": "0.84.0",
-  "npmCommand": ["mise", "exec", "node@24", "--", "npm"],
+  "lastChangelogVersion": "0.84.2",
+  "npmCommand": [
+    "mise",
+    "exec",
+    "node@24",
+    "--",
+    "npm"
+  ],
   "packages": [],
   "defaultProvider": "deepseek",
   "defaultModel": "deepseek-v4-flash",
