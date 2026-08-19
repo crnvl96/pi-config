@@ -2,7 +2,7 @@
   "lastChangelogVersion": "0.84.2",
   "packages": [],
   "defaultProvider": "deepseek",
-  "defaultModel": "deepseek-v4-flash",
+  "defaultModel": "deepseek-v4-pro",
   "defaultThinkingLevel": "max",
   "showCacheMissNotices": true,
   "hideThinkingBlock": true,
